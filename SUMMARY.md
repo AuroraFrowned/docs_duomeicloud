@@ -4,7 +4,7 @@
 
 ## Windows 使用教程 <a id="windows-jiao-cheng"></a>
 
-* [Untitled](windows-jiao-cheng/untitled.md)
+* [Clash for Windows 使用教程（ 推荐 ）](windows-jiao-cheng/untitled.md)
 
 ## macOS 使用教程
 
