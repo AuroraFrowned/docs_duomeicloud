@@ -14,4 +14,8 @@
 * [Windows 教程](tutorials/windows-tutorials/README.md)
   * [Clash for Windows](tutorials/windows-tutorials/clash-for-windows.md)
 * [macOS 教程](tutorials/macos-jiao-cheng.md)
+* [Linux 教程](tutorials/linux-jiao-cheng.md)
+* [Android 教程](tutorials/android-jiao-cheng.md)
+* [iOS 教程](tutorials/ios-jiao-cheng.md)
+* [网关设备教程](tutorials/wang-guan-she-bei-jiao-cheng.md)
 
