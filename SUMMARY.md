@@ -11,5 +11,6 @@
 ## 使用教程 <a id="tutorials"></a>
 
 * [用户中心指南](tutorials/user-center.md)
-* [Windows 教程](tutorials/windows-tutorials.md)
+* [Windows 教程](tutorials/windows-tutorials/README.md)
+  * [Clash for Windows](tutorials/windows-tutorials/clash-for-windows.md)
 
