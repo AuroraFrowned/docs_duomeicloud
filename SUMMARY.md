@@ -8,14 +8,16 @@
 * [多美云加速 - 用户中心](https://lululucloud.top/)
 * [多美云加速 - 联系方式](https://lululucloud.xyz/contact)
 
-## 使用教程 <a id="tutorials"></a>
+## 基础教程 <a id="basic-tutorial"></a>
 
-* [用户中心指南](tutorials/user-center.md)
-* [Windows 教程](tutorials/windows-tutorials/README.md)
-  * [Clash for Windows](tutorials/windows-tutorials/clash-for-windows.md)
-* [macOS 教程](tutorials/macos-jiao-cheng.md)
-* [Linux 教程](tutorials/linux-jiao-cheng.md)
-* [Android 教程](tutorials/android-jiao-cheng.md)
-* [iOS 教程](tutorials/ios-jiao-cheng.md)
-* [网关设备教程](tutorials/wang-guan-she-bei-jiao-cheng.md)
+* [用户中心](basic-tutorial/user-center/README.md)
+  * [登录页](basic-tutorial/user-center/deng-lu-ye.md)
+  * [用户面板](basic-tutorial/user-center/yong-hu-mian-ban.md)
+* [Windows 教程](basic-tutorial/windows-tutorials/README.md)
+  * [Clash for Windows](basic-tutorial/windows-tutorials/clash-for-windows.md)
+* [macOS 教程](basic-tutorial/macos-jiao-cheng.md)
+* [Linux 教程](basic-tutorial/linux-jiao-cheng.md)
+* [Android 教程](basic-tutorial/android-jiao-cheng.md)
+* [iOS 教程](basic-tutorial/ios-jiao-cheng.md)
+* [网关设备教程](basic-tutorial/wang-guan-she-bei-jiao-cheng.md)
 
