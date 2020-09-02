@@ -4,6 +4,9 @@
 
 ## 使用教程 <a id="tutorials"></a>
 
+* [用户中心](tutorials/user-center.md)
+* [Windows 教程](tutorials/windows-tutorials.md)
+
 ## 支持链接 <a id="link"></a>
 
 * [多美云加速 - 首页](https://lululucloud.xyz/)
