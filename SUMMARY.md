@@ -37,5 +37,6 @@
 
 ---
 
-* [多美云加速](https://lululucloud.xyz/)
+* [多美云加速 - 首页](https://lululucloud.xyz/)
+* [多美云加速 - 用户中心](https://lululucloud.top/)
 
