@@ -18,7 +18,7 @@
 
 ## 进阶教程 <a id="advanced-tutorial"></a>
 
-## 支持链接 <a id="link"></a>
+## 常用链接 <a id="link"></a>
 
 * [首页](https://lululucloud.xyz/)
 * [用户中心](https://lululucloud.top/)
