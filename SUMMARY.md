@@ -59,12 +59,10 @@
 * [聊天应用](other-tutorials/im/README.md)
   * [Telegram](other-tutorials/im/telegram.md)
   * [Potato](other-tutorials/im/potato.md)
-  * [Google Voice](other-tutorials/im/google-voice.md)
 * [远程协助](other-tutorials/remote-assistance/README.md)
   * [ToDesk](other-tutorials/remote-assistance/todesk.md)
   * [Anydesk](other-tutorials/remote-assistance/anydesk.md)
-* [Google 服务框架](other-tutorials/google-mobile-service.md)
-* [Apple ID 注册](other-tutorials/apple-id-registered.md)
+* [账号注册](other-tutorials/apple-id-registered.md)
 
 ## 常用链接 <a id="links"></a>
 
