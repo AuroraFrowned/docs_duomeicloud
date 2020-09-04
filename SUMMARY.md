@@ -1,12 +1,7 @@
 # Table of contents
 
 * [概述](README.md)
-
-## 支持链接 <a id="link"></a>
-
-* [多美云加速 - 首页](https://lululucloud.xyz/)
-* [多美云加速 - 用户中心](https://lululucloud.top/)
-* [多美云加速 - 联系方式](https://lululucloud.xyz/contact)
+* [下载中心](https://lululucloud.xyz/downloads)
 
 ## 基础教程 <a id="basic-tutorial"></a>
 
@@ -22,4 +17,14 @@
 * [网关设备教程](basic-tutorial/gateway-tutorial.md)
 
 ## 进阶教程 <a id="advanced-tutorial"></a>
+
+## 支持链接 <a id="link"></a>
+
+* [首页](https://lululucloud.xyz/)
+* [用户中心](https://lululucloud.top/)
+* [联系方式](https://lululucloud.xyz/contact)
+* [隐私政策](https://lululucloud.xyz/privacy-policy)
+* [服务条款](https://lululucloud.xyz/tos)
+* [使用政策](https://lululucloud.xyz/aup)
+* [常见问题](https://lululucloud.xyz/faq)
 
