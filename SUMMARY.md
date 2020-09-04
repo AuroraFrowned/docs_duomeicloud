@@ -35,8 +35,16 @@
 * [iOS 教程](basic-tutorials/ios-tutorials/README.md)
   * [Shadowrocket](basic-tutorials/ios-tutorials/shadowrocket.md)
   * [Pharos Pro \( iOS 版 \)](basic-tutorials/ios-tutorials/pharos-pro-ios-ban.md)
+  * [Potatso Lite](basic-tutorials/ios-tutorials/potatso-lite.md)
   * [Quantumult X](basic-tutorials/ios-tutorials/quantumult-x.md)
-* [网关设备教程](basic-tutorials/gateway-tutorials.md)
+* [网关设备教程](basic-tutorials/gateway-tutorials/README.md)
+  * [OpenWrt 教程](basic-tutorials/gateway-tutorials/openwrt-tutorials/README.md)
+    * [Clash for OpenWrt](basic-tutorials/gateway-tutorials/openwrt-tutorials/clash-for-openwrt.md)
+    * [OpenClash](basic-tutorials/gateway-tutorials/openwrt-tutorials/openclash.md)
+    * [KoolClash](basic-tutorials/gateway-tutorials/openwrt-tutorials/koolclash.md)
+    * [PassWall](basic-tutorials/gateway-tutorials/openwrt-tutorials/passwall.md)
+  * [Merlin 教程](basic-tutorials/gateway-tutorials/merlin-tutorials/README.md)
+    * [Clash-Merlin](basic-tutorials/gateway-tutorials/merlin-tutorials/clash-merlin.md)
 
 ## 进阶教程 <a id="advanced-tutorials"></a>
 
@@ -45,9 +53,12 @@
 * [聊天应用](other-tutorials/im/README.md)
   * [Telegram](other-tutorials/im/telegram.md)
   * [Potato](other-tutorials/im/potato.md)
+  * [Google Voice](other-tutorials/im/google-voice.md)
 * [远程协助](other-tutorials/remote-assistance/README.md)
   * [ToDesk](other-tutorials/remote-assistance/todesk.md)
   * [Anydesk](other-tutorials/remote-assistance/anydesk.md)
+* [Google 服务框架](other-tutorials/google-mobile-service.md)
+* [Apple ID 注册](other-tutorials/apple-id-registered.md)
 
 ## 常用链接 <a id="links"></a>
 

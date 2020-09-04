@@ -1,0 +1,2 @@
+# Clash for OpenWrt
+
