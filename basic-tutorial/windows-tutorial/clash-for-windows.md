@@ -1,2 +1,2 @@
-# Clash for Windows（ 推荐 ）
+# Clash for Windows
 
