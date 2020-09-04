@@ -29,7 +29,7 @@ description: 欢迎使用并阅读「多美云加速│DuomeiCloud」帮助中�
 
 * [**公告信息**](https://lululucloud.xyz/official-news)**：**发布**「多美云加速│DuomeiCloud」**各种官方公告、通知、活动等信息。
 * [**帮助中心**](https://docs.lululucloud.xyz)**：**发布**「多美云加速│DuomeiCloud」**平台服务与相关软件使用教程。
-* \*\*\*\*[**常见问题**](https://lululucloud.xyz/faq)**：**查看**「多美云加速│DuomeiCloud」**用户常见问题。
+* [**常见问题**](https://lululucloud.xyz/faq)**：**查看**「多美云加速│DuomeiCloud」**用户常见问题。
 * [**服务状态**](https://status.lululucloud.top/)**：**查看**「多美云加速│DuomeiCloud」**各网络平台与服务器节点状况。
 * [**用户中心**](https://lululucloud.top/)**：「多美云加速│DuomeiCloud」**用户注册，购买订阅，提交工单等客户相关服务中心。
 * [**下载中心**](https://lululucloud.xyz/downloads)**：**下载常见沟通软件与加速代理应用。
