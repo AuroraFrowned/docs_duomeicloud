@@ -14,7 +14,7 @@
   * [Clash-Web-bat](basic-tutorials/windows-tutorials/clash-web-bat.md)
   * [ClashCMD](basic-tutorials/windows-tutorials/clashcmd.md)
   * [Clashy  \( Windows 版 \)](basic-tutorials/windows-tutorials/clashy-windows-ban.md)
-  * [Torjan-Qt5](basic-tutorials/windows-tutorials/torjan-qt5.md)
+  * [Torjan-Qt5 \( Windows 版 \)](basic-tutorials/windows-tutorials/torjan-qt5.md)
   * [Qv2ray \( Windows 版 \)](basic-tutorials/windows-tutorials/qv2ray-windows-ban.md)
   * [Netch](basic-tutorials/windows-tutorials/netch.md)
 * [macOS 教程](basic-tutorials/macos-tutorials/README.md)

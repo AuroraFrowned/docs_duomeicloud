@@ -1,5 +1,5 @@
 ---
-description: 这里是用户中心面板功能介绍
+description: 用户中心面板功能介绍
 ---
 
 # 用户面板
