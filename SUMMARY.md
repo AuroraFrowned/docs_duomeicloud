@@ -61,7 +61,7 @@
   * [Potato](other-tutorials/im/potato.md)
 * [远程协助](other-tutorials/remote-assistance/README.md)
   * [ToDesk](other-tutorials/remote-assistance/todesk.md)
-  * [Anydesk](other-tutorials/remote-assistance/anydesk.md)
+  * [AnyDesk](other-tutorials/remote-assistance/anydesk.md)
 * [账号注册](other-tutorials/apple-id-registered.md)
 
 ## 常用链接 <a id="links"></a>
