@@ -149,6 +149,21 @@ Clash for Windows\resources\app.asar
 | :--- | :--- | :--- | :--- |
 | Clash for Windows 汉化补丁 | Windows / macOS | v0.11.7 | [GitHub](https://github.com/BoyceLig/Clash_Chinese_Patch/releases/download/0.11.7/app.asar) |
 
+### Clashr-Auto-Desktop
+
+#### Windows / macOS / Linux 代理客户端
+
+GitHub：[https://github.com/ClashrAuto/Clashr-Auto-Desktop](https://github.com/ClashrAuto/Clashr-Auto-Desktop)
+
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| Clashr-Auto \(exe\)版 | Windows | v1.0.16 | [GitHub](https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/download/v1.0.16/Clashr.Auto.Setup.1.0.16.exe) |
+| Clashr-Auto \(msi\)版 | Windows | v1.0.16 | [GitHub](https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/download/v1.0.16/Clashr.Auto.1.0.16.msi) |
+| Clashr-Auto \(dmg\)版 | macOS | v1.0.16 | [GitHub](https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/download/v1.0.16/Clashr.Auto-1.0.16.dmg) |
+| Clashr-Auto \(pkg\)版 | macOS | v1.0.16 | [GitHub](https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/download/v1.0.16/Clashr.Auto-1.0.16.pkg) |
+| Clashr-Auto \(rpm\)版 | Linux | v1.0.16 | [GitHub](https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/download/v1.0.16/clashr-auto-1.0.16.x86_64.rpm) |
+| Clashr-Auto \(deb\)版 | Ubuntu / Debian | v1.0.16 | [GitHub](https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/download/v1.0.16/clashr-auto_1.0.16_amd64.deb) |
+
 ### ClashWeb
 
 #### Windows 代理客户端
