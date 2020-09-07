@@ -127,6 +127,8 @@ description: 常用软件下载地址，本页面不定期更新
 
 ### Clash for Windows
 
+#### Windows / macOS 代理客户端 - 支持多美云加速一键订阅
+
 GitHub：[https://github.com/Fndroid/clash\_for\_windows\_pkg](https://github.com/Fndroid/clash_for_windows_pkg)
 
 | 名称 | 支持系统 | 版本 | 下载链接 |
@@ -149,6 +151,8 @@ Clash for Windows\resources\app.asar
 
 ### ClashWeb
 
+#### Windows 代理客户端
+
 GitHub：[https://github.com/lzdnico/ClashWeb](https://github.com/lzdnico/ClashWeb)
 
 | 名称 | 支持系统 | 版本 | 下载链接 |
@@ -156,6 +160,8 @@ GitHub：[https://github.com/lzdnico/ClashWeb](https://github.com/lzdnico/ClashW
 | ClashWeb 便携版 | Windows | v1.6.5 | [GitHub](https://github.com/lzdnico/ClashWeb/releases/download/ClashWeb1.6.5/ClashWebRelease1.6.5.7z) |
 
 ### Clashy
+
+#### Windows / macOS / Linux 代理客户端
 
 GitHub：[https://github.com/SpongeNobody/Clashy](https://github.com/SpongeNobody/Clashy)
 
@@ -166,15 +172,157 @@ GitHub：[https://github.com/SpongeNobody/Clashy](https://github.com/SpongeNobod
 | Clashy macOS 版 | macOS | v0.1.18 | [GitHub](https://github.com/SpongeNobody/Clashy/releases/download/v0.1.18/Clashy-0.1.18-mac.zip) |
 | Clashy macOS \(dmg\) 版 | macOS | v0.1.18 | [GitHub](https://github.com/SpongeNobody/Clashy/releases/download/v0.1.18/Clashy-0.1.18.dmg) |
 | Clashy AppImage 版 | Linux | v0.1.18 | [GitHub](https://github.com/SpongeNobody/Clashy/releases/download/v0.1.18/Clashy-0.1.18.AppImage) |
-| Clashy deb 版 | Ubuntu | v0.1.18 | [GitHub](https://github.com/SpongeNobody/Clashy/releases/download/v0.1.18/Clashy_0.1.18_amd64.deb) |
+| Clashy deb 版 | Ubuntu / Debian | v0.1.18 | [GitHub](https://github.com/SpongeNobody/Clashy/releases/download/v0.1.18/Clashy_0.1.18_amd64.deb) |
 
-### Qv2ray
+### Netch
 
-GitHub：
+#### Windows 代理客户端
 
+GitHub：[https://github.com/NetchX/Netch](https://github.com/NetchX/Netch)
 
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| Netch 便携版 | Windows | v1.5.1 | [GitHub](https://github.com/NetchX/Netch/releases/download/1.5.1/Netch.7z) |
 
-### Torjan-Qt5 \( 停更 \)
+### Netch 魔改版
+
+#### Windows 代理客户端
+
+GitHub：[https://github.com/AmazingDM/Netch-ForOwnUse](https://github.com/AmazingDM/Netch-ForOwnUse)
+
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| Netch 魔改便携版 | Windows | v1.6.0 | [GitHub](https://github.com/AmazingDM/Netch-ForOwnUse/releases/download/1.6.0/Netch.7z) |
+
+### ClashX
+
+#### macOS 代理客户端
+
+GitHub：[https://github.com/yichengchen/clashX](https://github.com/yichengchen/clashX)
+
+App Center：[https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution\_groups/public](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
+
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| ClashX \(dmg\) | macOS | v1.30.2 | [GitHub](https://github.com/yichengchen/clashX/releases/download/1.30.2/ClashX.dmg) |
+| ClashX Pro \(dmg\) | macOS | v1.30.2.1 | [App Center](https://appcenter-filemanagement-distrib2ede6f06e.azureedge.net/6875842e-baa8-445b-a794-95101d835616/ClashX.dmg?sv=2019-02-02&sr=c&sig=iPqZOilOhIECKu9cau2kFSxJcHKj0Yugrnz1fQPrHZI%3D&se=2020-09-07T23%3A49%3A47Z&sp=r&download_origin=appcenter) |
+
+### ClashXR
+
+#### macOS 代理客户端
+
+GitHub：[https://github.com/paradiseduo/ClashXR](https://github.com/paradiseduo/ClashXR)
+
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| ClashXR \(dmg\) | macOS | v1.30.1 | [GitHub](https://github.com/paradiseduo/ClashXR/releases/download/1.30.1/ClashXR.dmg) |
+
+### TrojanX
+
+#### macOS 代理客户端
+
+GitHub：[https://github.com/JimLee1996/TrojanX](https://github.com/JimLee1996/TrojanX)
+
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| TrojanX | macOS | v0.3 | [GitHub](https://github.com/JimLee1996/TrojanX/releases/download/0.3/TrojanX.app.zip) |
+
+### Clash for Android
+
+#### Android 代理客户端 - 支持多美云加速一键订阅
+
+GitHub：[https://github.com/Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| Clash for Android \(Google Play\) | Android 7+ | v2.1.5 | [Google Play](https://play.google.com/store/apps/details?id=com.github.kr328.clash) |
+| Clash for Android arm64-v8a | Android 7+ | v2.1.5 | [GitHub](https://github.com/Kr328/ClashForAndroid/releases/download/v2.1.6/app-arm64-v8a-release.apk) |
+| Clash for Android armeabi-v7a | Android 7+ | v2.1.5 | [GitHub](https://github.com/Kr328/ClashForAndroid/releases/download/v2.1.6/app-armeabi-v7a-release.apk) |
+| Clash for Android universal | Android 7+ | v2.1.5 | [GitHub](https://github.com/Kr328/ClashForAndroid/releases/download/v2.1.6/app-universal-release.apk) |
+| Clash for Android x86 | Android 7+ | v2.1.5 | [GitHub](https://github.com/Kr328/ClashForAndroid/releases/download/v2.1.6/app-x86-release.apk) |
+| Clash for Android x86\_64 | Android 7+ | v2.1.5 | [GitHub](https://github.com/Kr328/ClashForAndroid/releases/download/v2.1.6/app-x86_64-release.apk) |
+
+### igniter
+
+#### Android 代理客户端
+
+GitHub：[https://github.com/trojan-gfw/igniter](https://github.com/trojan-gfw/igniter)
+
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| igniter \(Google Play\) | Android 6+ | v0.9.9-Beta | [Google Play](https://play.google.com/store/apps/details?id=io.github.trojan_gfw.igniter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) |
+| igniter debug | Android 6+ | v0.9.9-Beta | [GitHub](https://github.com/trojan-gfw/igniter/releases/download/v0.9.9-beta/io.github.trojan_gfw.igniter-v0.9.9-beta-230000909-debug.apk) |
+| igniter release | Android 6+ | v0.9.9-Beta | [GitHub](https://github.com/trojan-gfw/igniter/releases/download/v0.9.9-beta/io.github.trojan_gfw.igniter-v0.9.9-beta-230000909-release.apk) |
+
+### Pharos Pro
+
+#### Android / iOS 代理客户端
+
+GitHub：[https://github.com/PharosVip/Pharos-Android-Test](https://github.com/PharosVip/Pharos-Android-Test)
+
+此客户端 iOS 版本为非大陆区收费版本，请自行购买。
+
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| Pharos Pro | Android | v1.0.9 | [GitHub](https://github.com/PharosVip/Pharos-Android-Test/releases/download/v109/PharosPro109.apk) |
+| Pharos Pro \(App Store\) | iOS 11.0+ | v1.3.2 | [App Store](https://apps.apple.com/app/pharos-pro/id1456610173) |
+
+### Shadowrocket
+
+#### iOS 代理客户端 - 支持多美云加速一键订阅
+
+此客户端 iOS 版本为非大陆区收费版本，请自行购买。
+
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| Shadowrocket \(App Store\) | iOS 9.0+ | v2.1.61 | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+
+### Quantumult X
+
+#### iOS 代理客户端 - 支持多美云加速一键订阅
+
+此客户端 iOS 版本为非大陆区收费版本，请自行购买。
+
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| Quantumult X | iOS 11.0+ | v1.0.13 | [App Store](https://apps.apple.com/jp/app/quantumult-x/id1443988620?l=en) |
+
+### Surge
+
+#### macOS / iOS 代理客户端 - 支持多美云加速一键订阅
+
+官网：[https://nssurge.com/](https://nssurge.com/)
+
+此客户端为非大陆区收费版本，请自行购买。
+
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| Surge for macOS | macOS | v3.5.4 | [试用版](https://nssurge.com/mac/v3/Surge-latest.zip) |
+| Surge V4 \(App Store\) | iOS 11.0+ | v4.3.2 | [App Store](https://apps.apple.com/us/app/surge-4/id1442620678) |
+
+### Potatso Lite
+
+#### iOS 代理客户端
+
+官网：[https://potatso.com/](https://potatso.com/)
+
+此客户端为非大陆区免费版本，请自行下载。
+
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| Potatso Lite \(App Store\) | iOS 13.0+ | v2.5.0 | [App Store](https://apps.apple.com/us/app/potatso-lite/id1239860606) |
+
+### OpenClash
+
+#### OpenWrt 代理客户端
+
+GitHub：[https://github.com/vernesong/OpenClash](https://github.com/vernesong/OpenClash)
+
+具体安装编译方法请自行解决。
+
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| OpenClash | OpenWrt | v0.39.8-beta | [GitHub](https://github.com/vernesong/OpenClash/releases/download/v0.39.8-beta/luci-app-openclash_0.39.8-beta_all.ipk) |
 
 
 

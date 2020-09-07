@@ -1,6 +1,6 @@
 ---
-description: Clash for Windows 使用教程
+description: Clash for Windows ( Windows 版 ) 使用教程
 ---
 
-# Clash for Windows
+# Clash for Windows \( Windows 版 \)
 
