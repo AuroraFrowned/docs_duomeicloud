@@ -14,13 +14,12 @@ ToDesk 是一款国产个人免费的跨平台远程控制软件。
 
 ### 下载地址：
 
-| 名称 | 支持系统 | 版本 | 下载链接 | 更新日期 |
-| :--- | :--- | :--- | :--- | :--- |
-| ToDesk Windows 版本 | Windows 7+ | 1.1.0828a | [官方链接](https://update.todesk.com/setup_20200828a.exe) | 2020-08-28 |
-| ToDesk macOS 版本 | macOS 10.10+ ×64 | 1.0.0904a | [官方链接](https://update.todesk.com/ToDesk1.0.0904a.pkg) | 2020-09-04 |
-| ToDesk Linux 版本 |  |  |  | 未发布 |
-| ToDesk Android 版本 | Android | 1.0.0827a | [官方链接](https://update.todesk.com/todesk.apk) | 2020-08-27 |
-| ToDesk iOS 版本 | iOS 9+ | 1.0.2 | [App Store](https://apps.apple.com/cn/app/todesk/id1519407428) | 2020-07-28 |
+| 名称 | 支持系统 | 版本 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| ToDesk Windows 版本 | Windows 7+ | 1.1.0828a | [官方链接](https://update.todesk.com/setup_20200828a.exe) |
+| ToDesk macOS 版本 | macOS 10.10+ ×64 | 1.0.0904a | [官方链接](https://update.todesk.com/ToDesk1.0.0904a.pkg) |
+| ToDesk Android 版本 | Android | 1.0.0827a | [官方链接](https://update.todesk.com/todesk.apk) |
+| ToDesk iOS 版本 | iOS 9+ | 1.0.2 | [App Store](https://apps.apple.com/cn/app/todesk/id1519407428) |
 
 ### 使用教程：
 
