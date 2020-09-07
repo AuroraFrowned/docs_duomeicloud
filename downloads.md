@@ -34,9 +34,9 @@ description: 常用软件下载地址，本页面不定期更新
 | 名称 | 支持系统 | 版本 | 下载链接 | 更新日期 |
 | :--- | :--- | :--- | :--- | :--- |
 | Telegram for Android \(Google Play\) | Android | 因设备而异 | [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger) | 2020-08-21 |
-| Telegram for Android \(APK\) | Android | 7.0.1 | [官方下载](https://telegram.org/dl/android/apk) | 2020-08-21 |
-| Telegram for iPhone and iPad | iOS 9.0+ & watchOS 5.0+ | 7.0 | [App Store](https://apps.apple.com/app/telegram-messenger/id686449807) | 2020-08-21 |
-| Telegram for WP | Windows 8 Mobile+ | 3.4 | [Microsoft Store](https://www.microsoft.com/zh-cn/p/telegram-messenger/9wzdncrdzhs0?rtc=1&activetab=pivot:overviewtab) | 2014-02-04 |
+| Telegram for Android \(APK\) | Android | v7.0.1 | [官方下载](https://telegram.org/dl/android/apk) | 2020-08-21 |
+| Telegram for iPhone and iPad | iOS 9.0+ & watchOS 5.0+ | v7.0 | [App Store](https://apps.apple.com/app/telegram-messenger/id686449807) | 2020-08-21 |
+| Telegram for WP | Windows 8 Mobile+ | v3.4 | [Microsoft Store](https://www.microsoft.com/zh-cn/p/telegram-messenger/9wzdncrdzhs0?rtc=1&activetab=pivot:overviewtab) | 2014-02-04 |
 
 ### Potato
 
@@ -46,15 +46,18 @@ description: 常用软件下载地址，本页面不定期更新
 
 | 名称 | 支持系统 | 版本 | 下载链接 | 更新日期 |
 | :--- | :--- | :--- | :--- | :--- |
-
+| Potato for Windows | Windows 7+ | v2.17.200361 | [官方下载](https://download.dppt.in/win/PotatoInstaller.zip) | 2020-08-30 |
+| Potato for macOS \(dmg\) | macOS 10.12+ ×64 | v2.17.200504 | [官方下载](https://download.dppt.in/mac/Potato_Desktop.zip) | 2020-08-30 |
+| Potato for Linux | Linux ×64 | v2.17.200404 | [官方下载](https://download.dppt.in/linux/Potato_Desktop.tar.gz) | 2020-08-30 |
 
 #### Potato - 移动客户端
 
 | 名称 | 支持系统 | 版本 | 下载链接 | 更新日期 |
 | :--- | :--- | :--- | :--- | :--- |
-
-
-
+| Potato for Android \(Google Play\) | Android | v2.16.200101 | [Google Play](https://play.google.com/store/apps/details?id=org.potato.messenger&hl=zh) | 2020-08-30 |
+| Potato for Android \(APK\) | Android | v2.16.200101 | [官方下载](https://download.dppt.in/android/potato-2.16.apk) | 2020-08-30 |
+| Potato for iOS \(App Store\) | iOS 10.0+ | v2.16.207051 | [App Stone](https://apps.apple.com/us/app/potato-chat/id1204726898) | 2020-08-30 |
+| Potato for iOS \(TestFlight\) | iOS 10.0+ | v2.16.207051 | [TestFlight](https://testflight.apple.com/join/P2Jlp35o) | 2020-08-30 |
 
 ## 远程协助应用
 
@@ -64,15 +67,15 @@ description: 常用软件下载地址，本页面不定期更新
 
 | 名称 | 支持系统 | 版本 | 下载链接 | 更新日期 |
 | :--- | :--- | :--- | :--- | :--- |
-| ToDesk Windows 版本 | Windows 7+ | 1.1.0828a | [官方链接](https://update.todesk.com/setup_20200828a.exe) | 2020-08-28 |
-| ToDesk macOS 版本 | macOS 10.10+ ×64 | 1.0.0904a | [官方链接](https://update.todesk.com/ToDesk1.0.0904a.pkg) | 2020-09-04 |
+| ToDesk Windows 版本 | Windows 7+ | v1.1.0828a | [官方链接](https://update.todesk.com/setup_20200828a.exe) | 2020-08-28 |
+| ToDesk macOS 版本 | macOS 10.10+ ×64 | v1.0.0904a | [官方链接](https://update.todesk.com/ToDesk1.0.0904a.pkg) | 2020-09-04 |
 
 #### ToDesk - 移动客户端
 
 | 名称 | 支持系统 | 版本 | 下载链接 | 更新日期 |
 | :--- | :--- | :--- | :--- | :--- |
-| ToDesk Android 版本 | Android | 1.0.0827a | [官方链接](https://update.todesk.com/todesk.apk) | 2020-08-27 |
-| ToDesk iOS 版本 | iOS 9+ | 1.0.2 | [App Store](https://apps.apple.com/cn/app/todesk/id1519407428) | 2020-07-28 |
+| ToDesk Android 版本 | Android | v1.0.0827a | [官方链接](https://update.todesk.com/todesk.apk) | 2020-08-27 |
+| ToDesk iOS 版本 | iOS 9+ | v1.0.2 | [App Store](https://apps.apple.com/cn/app/todesk/id1519407428) | 2020-07-28 |
 
 ### AnyDesk
 
