@@ -1,7 +1,7 @@
 # Table of contents
 
 * [概述](README.md)
-* [下载中心](https://lululucloud.xyz/downloads)
+* [下载中心](downloads.md)
 
 ## 基础教程 <a id="basic-tutorials"></a>
 
