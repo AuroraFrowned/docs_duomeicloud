@@ -113,3 +113,9 @@ description: 常用软件下载地址，本页面不定期更新
 | AnyDesk Android 版 \(APK\) | Android 4+ | v6.0.4 | [官方链接](https://download.anydesk.com/anydesk.apk) | 2020-07-28 |
 | AnyDesk iOS 版 | iOS 11.0+ | v5.0.0 | [App Store](https://apps.apple.com/us/app/anydesk/id1176131273) | 2020-09-03 |
 
+## 代理应用
+
+
+
+### Clash for Windows
+
