@@ -40,8 +40,6 @@
 * [规则](advanced-tutorials/rule.md)
 * [DNS](advanced-tutorials/dns.md)
 * [GeoIP](advanced-tutorials/geoip.md)
-* [测速](advanced-tutorials/speedtest.md)
-* [广告过滤](advanced-tutorials/ad-filter.md)
 
 ## 其他教程 <a id="other-tutorials"></a>
 
